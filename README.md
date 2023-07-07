@@ -7,3 +7,5 @@
 В сервис добавьте метод, который с помощью hql-запроса будет доставать юзера, владеющего машиной по ее модели и серии.
 
 ![image](https://github.com/AlexandrMV64/Task_2.2.1/assets/134216054/1e315e53-622f-4fa5-8d1e-70b332b79553)
+
+![image](https://github.com/AlexandrMV64/Task_2.2.1/assets/134216054/bee46cab-6391-4975-8f5c-257bbd42331c)
